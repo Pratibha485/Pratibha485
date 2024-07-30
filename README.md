@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Pratibha485
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Backend
+- 😄 Pronouns:She/her
